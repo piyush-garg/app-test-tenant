@@ -81,4 +81,4 @@ When `READY` changes to `0/1`, if you re-execute a `curl` command to `api/greeti
 == More Information
 You can learn more about this booster and rest of the Spring Boot runtime in the link:http://appdev.openshift.io/docs/spring-boot-runtime.html[Spring Boot Runtime Guide].
 
-NOTE: Run the set of integration tests included with this booster using `mvn clean verify -Popenshift,openshift-it`.
+NOTE: Run the set of included with this booster using `mvn clean verify -Popenshift,openshift-it`.
